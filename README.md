@@ -1,6 +1,6 @@
 ## Konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Dheerajpandey/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Dheeraj-pandey/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ntdheerajgamer)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dhirajjj_42/)
 
