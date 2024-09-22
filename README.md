@@ -1,16 +1,68 @@
-<h1 align="center">Hi 👋, I'm dheeraj pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left>
 
-<p align="left"> <a href="https://twitter.com/dheeraj7208" target="blank"><img src="https://img.shields.io/twitter/follow/dheeraj7208?logo=twitter&style=for-the-badge" alt="dheeraj7208" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
+[![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itspyguru)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/itspyguru/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/itspyguru)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.ca/itspyguru)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dheeraj7208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dheeraj7208" height="30" width="40" /></a>
-<a href="https://fb.com/dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dheeraj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nt dheearj gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nt dheearj gamer" height="30" width="40" /></a>
-</p>
+#### I'm dheeraj ,
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
-Support 🙏
+- 🔭 Primary Coding language : Python
+- 🌱 Currently learning Automation and Cracking
+- 👯 I’m looking to collaborate with other programmers
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 📫 How to reach me : The fastest way to reach me is by Telegram
+
+- ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories 🤣.
+
+<details>
+	<summary>Interested in knowing more about me 👇 </summary>
+
+  <br />
+  <img alt="Hououin Kyoma" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
+
+  I'm a Student, Developer, and Python Instructor. I like programming, 
+  cryptography and designing. I am interested in extra-terrestrials and 
+  trying to understand our universe, studying theoretical physics by my own. 
+  I like photography and collecting pictures. A simple and down to 
+  earth boy who is so keen to learn every day a new thing. 
+  <br />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Python;I'm+passionate+about+ML;I+love+making+Games+and+Apps;&width=400&height=50">
+  </p>
+  
+</details>
+
+<details>
+	<summary> ⚡ Github Stats </summary>
+	<br />
+
+<div style="display:flex; flex-flow: column wrap;">
+	<div style="width:50%">
+	  	<a href="https://github.com/pyguru123">
+	    		<img src="https://github-readme-stats.vercel.app/api?username=pyguru123&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Prajjwal's GitHub stats"/>
+	 	 </a>
+	</div>
+	<div style="width:50%">
+	    <a href="https://github.com/pyguru123">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" />
+	    </a>
+        </div>
+</div>
+
+![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
+![GitHub followers](https://img.shields.io/github/followers/pyguru123?style=social)
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<!-- links -->
